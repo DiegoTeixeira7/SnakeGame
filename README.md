@@ -5,7 +5,7 @@
 
 ## Você deve instalar o módulo PyGame com os seguintes comandos no seu Terminal Linux:
 <p>sudo apt-get update && sudo apt-get upgrade<p>
-<p>sudo apt-get install python-pygame<p>
+<p>sudo apt-get install python3-pygame<p>
 
 ### Execute o seguinte comando para executar o jogo no seu Terminal Linux:
 python3 main.py
