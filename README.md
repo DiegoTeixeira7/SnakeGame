@@ -14,8 +14,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
- <img alt="Demontração SnakeGame clássico" src="assets/classico.gif" width="600" heigth="337">
- <img alt="Demontração SnakeGame livre" src="assets/livre.gif" width="600" heigth="337">
+ <h3>Modo Clássico:</>
+ <img alt="Demontração SnakeGame clássico" src="assets/classico.gif">
+ <h3>Modo Livre:</>
+ <img alt="Demontração SnakeGame livre" src="assets/livre.gif">
 </p>
 
 ### :information_source: Como usar:
