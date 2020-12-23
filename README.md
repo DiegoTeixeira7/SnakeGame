@@ -14,9 +14,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
- <h3>Modo Clássico:<br></>
+ <h3>Modo Clássico:</>
  <img alt="Demontração SnakeGame clássico" src="assets/classico.gif">
- <h3>Modo Livre:<br></>
+ <h3>Modo Livre:</>
  <img alt="Demontração SnakeGame livre" src="assets/livre.gif">
 </p>
 
