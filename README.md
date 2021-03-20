@@ -40,5 +40,5 @@ $ python3 main.py
 
 ```
 
-### :memo: Liçenca
+### :memo: Licença
 Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/DiegoTeixeira7/SnakeGame/blob/master/LICENSE) para obter mais informações.
